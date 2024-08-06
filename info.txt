@@ -1,0 +1,9 @@
+Curso de JavaScript desde cero
+
+En este repositorio de Github estare subiendo toda la informacion, temas y todo los que necesitas saber para aprender desde cero JavaScript.
+
+Tambien habra practicas con codigo ya sea ejercicios con puro codigo de JavaScript, o tambien incorporando html y css.
+
+Haremos varios proyectos con web para que apliquen lo aprendido, ya que este curso sera didactico.
+
+Asi que estaremos viendo desde como escribir nuestro primer Hola Mundo, la creacion de varaibles, condicionales, bucles, arrays, cadenas (strings), metodos, etc.
