@@ -1,0 +1,9 @@
+                                            TEMARIO DEL CURSO
+
+. Variables
+    -Variables con var
+    -Variables con let
+    -Variables con const
+
+. Strings y sus Metodos
+    -Creacion de Strings
