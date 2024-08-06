@@ -7,3 +7,10 @@
 
 . Strings y sus Metodos
     -Creacion de Strings
+    -Strings Methods: includes y length
+    -Concatenar un string
+    -Template Strings
+    -Cortar espacios en blanco de un string
+    -Strings Methods: Replace, Slice y Substrings
+    -Strings Methods: Repeat y Split
+    -Strings Methods: Mayusculas y Minusculas
