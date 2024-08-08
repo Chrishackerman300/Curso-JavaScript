@@ -14,3 +14,188 @@
     -Strings Methods: Replace, Slice y Substrings
     -Strings Methods: Repeat y Split
     -Strings Methods: Mayusculas y Minusculas
+
+. Numeros en JavaScript
+    - Crear Numeros
+    -Operaciones con Numeros
+    -Objeto Math
+    -Orden de las operaciones
+    -Incrementos y decrementos
+    -Convertir strings a numeros
+
+. Operadores
+    -Operador Mayor que y Menor que
+    -Compracion
+    -Comprar NULL y Undefined
+
+. Booleans
+    -Crear y comparar Booleans
+    -Comparaciones
+
+. Objetos
+    -Crear objetos
+    -Acceder a los valores del objeto
+    -Agregar o Eliminar propiedades de un objeto
+    -Destructuring de objetos
+    -Objetos Anidados
+    -Destructuring de objetos anidados
+    -Congelar un objeto
+    -Sellar un objeto
+    -Copiar 2 objetos
+    -Funciones en objetos
+    -Object Constructor
+    -Object, Keys, Values y Entries
+
+. Arrays y Matrices
+    -Crear Arrays
+    -Acceder a los valores del un array
+    -Recorrer un array 
+    -Agregar nuevos valores
+    -Añadir nuevos elementos al inicio o final
+    -Crear un nuevo array con el spread operator
+    -Eliminar elementos con Splice
+    -Destructuring de arrays
+    -forEach
+    -map
+
+. Funciones
+    -Crear funciones
+    -Function Expression y Function Declaration
+    -Diferencia entre function expression y declaration
+    -Funciones nativas
+    -Parametros y argumentos
+    -Parametros por default
+    -Como se comunican las funciones
+    -Añadir funciones en un objeto
+    -Arrow functions
+
+. Estructuras de Control
+    -Crear un if
+    -Comparador estricto
+    -Comparador mayor que o menor que
+    -Mayor o igual
+    -else if
+    -Switch Case
+    -Operador &&
+    -Operador OR
+    -Operador ternario
+
+. Iteradores
+    -for loop
+    -break y continue en un for loop
+    -While loop
+    -Do While loop
+    -forEach y map
+    -for...of
+    -for...in
+
+. Arrays Methods
+    -some
+    -findIndex  
+    -reduce
+    -filter
+    -find
+    -every
+    -concat
+    -spread operator
+
+. JavaScript DOM (Document Object Model)
+    -Que es?
+    -Acceder a elementos del HTML
+    -get ElementsByIClassName
+    -get ElementById
+    -querySelector
+    -querySelectorAll
+    -Modificar textos o imagenes
+    -Cambiando el CSS con JavaScript
+    -Traversing del DOM
+    -Eliminar elementos en el DOM
+    -Generar HTML con JavaScript
+
+. Eventos
+    -Detectar cuando el HTML esta listo
+    -Eventos con el mouse
+    -Eventos sobre inputs
+    -Eventos submit
+    -Eventos scroll
+    -Que es el event bubbling?
+
+. LocalStorage
+    -Obtener datos
+    -Actualizar y eliminar elementos
+
+. Fechas
+    -Objeto Date
+    -MomentJS
+
+. Prototypes
+    -Que es Proto?
+    -Crear un tipo de objeto nuevo
+    -Creando un prototype
+    -Heredar un prototype
+
+. Programacion Orientada a Objetos (POO)
+    -Definir e instanciar una clase
+    -Metodos
+    -Metodos estaticos en una clase
+    -Heredar una clase
+    -Propiedades privadas
+
+. Sets, Maps y Symbols
+    -Caracteristicas
+    -Que es Weakset
+    -Diferencia entre Weakset y Set
+    -Que son los maps?
+    -Que so los WeakMaps?
+    -Symbols y sus caracteristicas
+    -Generadores
+
+. Modulos
+    -Modulos basicos ES6
+    -Exportar e importar funciones
+    -Exportar e importar un clase
+    -Heredar una clase que esta siendo importada
+    -Export Default y alias a los imports
+
+. Promises, Callbacks y Programcion Asincrona
+    -Que son?
+    -Ejemplo callbacks
+    -Creando una promise
+    -Que es .then y .catch?
+    -De callback hell a promises
+
+. API's en JavaScript
+    -Que es?
+    -Para que sirve?
+    -Notificacion API
+    -Intersection Observer
+    -Speech API
+
+. Fetch API
+    -Que es?
+    -Para que sirve?
+    -Como utilizar Fetch API
+    -Consultar JSON
+    -Consultar e impirmir resultados de un fetch
+    -Consultar e impirmir los resultados de un API
+
+. Async Await
+    -Que es?
+    -Que es Try Catch
+    -Que hace Asyn Await?
+    -Async Await en function express
+    -Async Await declaration
+    -Manejar multiples awaits
+    -Async Await hacia una PAI con fetch
+
+. Functional JavaScript
+    -Que es functional JavaScript?
+    -First Class functions
+    -Funciones como argumentos
+    -Separar los datos de las funciones 
+    -map y su uso en functional JavaScript
+    -Pure functions
+    -Funciones que retornan funciones
+    -Closures
+    -Partials y currying
+    -Composition
