@@ -165,7 +165,7 @@ En este curso aprenderás desde lo más básico de JavaScript y conocerás todo 
     * Heredar una clase que está siendo importada
     * Export default y alias a las imports
 
-* ### Promisesm Callbacks y Programación Asíncrona
+* ### Promises Callbacks y Programación Asíncrona
     * ¿Qué son?
     * Ejemplo de callbacks
     * Creando una promise
